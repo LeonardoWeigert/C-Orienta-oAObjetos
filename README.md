@@ -1,6 +1,6 @@
 # C++ OrientacaoAObjetos
 
-Instale o Dev C++ Sistema Operacional Windows Desenvolvido em C Autor: Leonardo L. Weigert Data: 14/11/2021
+Instale o Dev C++ Sistema Operacional Windows Desenvolvido em C Autor: Leonardo L. Weigert Data: 30/11/2021
 
 Implementação da Classe e o metodo:
 
