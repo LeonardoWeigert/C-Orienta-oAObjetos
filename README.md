@@ -4,9 +4,17 @@ Instale o Dev C++ Sistema Operacional Windows Desenvolvido em C Autor: Leonardo 
 
 Implementação da Classe e o metodo:
 
-![image](https://user-images.githubusercontent.com/93353768/144141452-c8021f0e-bad4-49d5-ae93-a3259c0b647a.png)
+![image](https://user-images.githubusercontent.com/93353768/144519943-3a751300-a212-4ec9-813a-f15004173dc0.png)
 
-Implementação da ação do metado e o parametro:
+Implementação da ação do metado "VET1"(Primeiro array):
+
+![image](https://user-images.githubusercontent.com/93353768/144520089-aa38f61c-dec8-4064-af64-d7ba5b4c1d8e.png)
+
+Implementação da ação do metado "VET2"(Segundo array):
+
+![image](https://user-images.githubusercontent.com/93353768/144520156-d7024600-bb36-46ce-816f-e36f20c524bb.png)
+
+Implementação da ação do metado "JUNTA":
 
 ![image](https://user-images.githubusercontent.com/93353768/144143109-b0bda737-460c-401a-b167-97c713d59050.png)
 
